@@ -1,3 +1,14 @@
+/**
+ * @file unit_test.hpp
+ * @author Henri Prudhomme
+ * @brief This file defines a header only implementation of basic unit testing.
+ * @version 0.1
+ * @date 06-08-2022
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 /****************************************
  * INCLUDES
  ***************************************/
